@@ -17,7 +17,9 @@ I'm a ***Web Designer*** <br>
 <br>
 
 <br>
-![web design](https://drive.google.com/file/d/16-t4cmfhg-oKILhQN-miwx7fialnRuMc/view?usp=sharing | width=200) 
+ 
+
+![hhd](weblogo.png)
 
 [my first site](https://leen-rasllan.github.io/website/)
 
