@@ -19,9 +19,8 @@ I'm a ***Web Designer*** <br>
 <br>
  
 
-![hhd](weblogo.png)
 
-[my first site](https://leen-rasllan.github.io/website/)
+[![hhd](weblogo.png)](https://leen-rasllan.github.io/website/)
 
 ## Summury of Good Developer Mindset
 
