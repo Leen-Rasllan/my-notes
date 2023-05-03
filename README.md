@@ -12,7 +12,7 @@ I'm a ***Web Designer*** <br>
  - Web design front end <br>
 - Some of graphic skills <br>
 - Some levels in English language <br>
-- [And a lot of courses in Quran science](https://drive.google.com/drive/folders/1T-3RYVhktmrvr463tLmQ7enrgh4AMn6c?usp=share_link)
+- And a lot of courses in Quran science
 <br>
 <br>
 
